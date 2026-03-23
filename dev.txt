@@ -5,7 +5,9 @@
 '恢复存档''删除存档'按钮
 
 3.技术栈：使用python，可以调用任意库
-4.前端界面：允许自由发挥
-5.存档结构：
-6.示例io
+4.前端界面：允许自由发挥，不过最好用python的
+5.存档结构：C:\Users\example\AppData\LocalLow\Nolla_Games_Noita\save00 #保存全部
+C:\Users\example\AppData\LocalLow\Nolla_Games_Noita\save00\world #只保存世界存档
+6.示例io：如果你需要的话我就写
 7.约束条件与边界情况
+如果你需要的话我就写
